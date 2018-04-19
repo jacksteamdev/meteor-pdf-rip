@@ -1,5 +1,7 @@
 # Meteor Boilerplate with Mocha Tests
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jacksteamdev/meteor-pdf-rip.svg)](https://greenkeeper.io/)
+
 This is a boilerplate application built on Meteor which uses Mocha for testing.
 
 ## Getting Started
